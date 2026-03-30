@@ -18,7 +18,7 @@ The project combines custom generative art systems, player-driven interaction, a
 - p5.js (WEBGL mode)
 - Procreate
 
-##Features
+## Features
 
 - Implemented a metaball system where algae blobs grow, oscillate, and bridge neighboring blobs with bezier curves to create organic fluid shapes.
 - Built a radial gradient vignette that grows greener as the algae array fills, providing passive feedback on tank cleanliness without UI elements.
